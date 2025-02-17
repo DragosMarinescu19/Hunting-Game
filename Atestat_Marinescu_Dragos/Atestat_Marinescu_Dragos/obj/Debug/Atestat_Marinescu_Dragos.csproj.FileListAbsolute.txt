@@ -1,0 +1,33 @@
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.exe.config
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.exe
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.pdb
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Form1.resources
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Properties.Resources.resources
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csproj.GenerateResource.cache
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csproj.CoreCompileInputs.cache
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.exe
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.pdb
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Nivel2.resources
+D:\C\12C\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csprojAssemblyReference.cache
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.exe.config
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.exe
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.pdb
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csprojAssemblyReference.cache
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Form1.resources
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Nivel2.resources
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Properties.Resources.resources
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csproj.GenerateResource.cache
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csproj.CoreCompileInputs.cache
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.exe
+d:\Y\12C\Marinescu Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.pdb
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.exe.config
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.exe
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\bin\Debug\Atestat_Marinescu_Dragos.pdb
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Form1.resources
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Nivel2.resources
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.Properties.Resources.resources
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.exe
+C:\Users\marin\OneDrive\Desktop\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\Atestat_Marinescu_Dragos\obj\Debug\Atestat_Marinescu_Dragos.pdb
